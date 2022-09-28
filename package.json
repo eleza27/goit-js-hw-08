@@ -1,7 +1,7 @@
 {
   "name": "goit-js-hw-08",
   "version": "2.0.0",
-  "description": "**Read in other languages: [Русский](README.md), [Polski](README.pl.md).**",
+  "description": "",
   "homepage": "https://eleza27.github.io/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/eleza27/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/eleza27/goit-js-hw-08/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
@@ -26,6 +26,5 @@
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead",
-  "main": "npm start"
+  "browserslist": "> 0.5%, last 2 versions, not dead"
 }
